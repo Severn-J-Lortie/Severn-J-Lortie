@@ -1,5 +1,5 @@
 <h1 align="center">Severn Lortie</h1>
-<p align="center"><strong>Robotics · Embedded Systems · Motion Planning</strong></p>
+<p align="center"><strong>Robotics + Embedded Systems + Motion Planning</strong></p>
 <p align="center">
   MASc researcher at Queen’s University’s
   <a href="https://robotic-esp.com/people/slortie/">Estimation, Search, and Planning (ESP) Research Group</a>.
@@ -9,7 +9,7 @@
 
 <table>
   <tr>
-    <th width="48%">Résumé</th>
+    <th width="48%">Resume</th>
     <th width="52%">Research &amp; connections</th>
   </tr>
   <tr>
