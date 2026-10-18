@@ -18,7 +18,7 @@
         <img src="https://raw.githubusercontent.com/Severn-J-Lortie/Severn-J-Lortie/main/assets/resume-preview.png" width="420" alt="Severn Lortie’s résumé — click to open the PDF">
       </a>
       <br>
-      <a href="https://github.com/Severn-J-Lortie/Severn-J-Lortie/blob/main/docs/resume.pdf">View résumé</a>
+      <a href="https://github.com/Severn-J-Lortie/Severn-J-Lortie/blob/main/docs/resume.pdf">View resume</a>
       ·
       <a href="https://github.com/Severn-J-Lortie/Severn-J-Lortie/blob/main/docs/cv.pdf">View academic CV</a>
     </td>
